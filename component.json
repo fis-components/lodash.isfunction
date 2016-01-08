@@ -1,10 +1,10 @@
 {
     "name": "lodash.isfunction",
     "description": "The modern build of lodash’s `_.isFunction` as a module.",
-    "repos": "https://github.com/lodash/lodash",
+    "repos": "https://github.com/lodash/lodash.git",
     "tag": "master",
     "reposType": "npm",
     "dependencies": {},
     "main": "index.js",
-    "version": "3.0.3"
+    "version": "3.0.4"
 }
